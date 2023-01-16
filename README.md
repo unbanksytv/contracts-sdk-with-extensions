@@ -1,8 +1,5 @@
 <!-- Banner Image -->
 
-![huddle01-overview](https://user-images.githubusercontent.com/45092543/212680591-d8340b49-a0b6-41e0-b84c-cfee913e432a.png)
-
-
 <h1 align='center'>Create an NFT collection with Solidity + thirdweb</h1>
 
 <p align='center'>This template allows you to create an NFT Collection using Solidity and thirdweb.</p>
